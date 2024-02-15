@@ -3,4 +3,7 @@ Durante a construção do site utilizei conhecimentos em CSS como cores, backgro
 
 Grato pela visita.
 Que Deus me acompanhe nessa jornada de conhecimentos em Tecnologia de Informação.
+
+Se desejar pode visualizar o trabalho por meio do link:
+https://pmdon.github.io/sitehtmlcss/
  
